@@ -46,4 +46,4 @@ potongan ini mengambil fondasi yang dipakai semua build bahasa.
 - [x] Kalkulator terbukti oleh diferensial vs `eval`; program mini
       terbukti oleh hasil yang dihitung independen.
 - [x] `CATATAN.md` satu halaman per irisan: konsep inti + temuan.
-- [ ] Repo GitHub publik `build-your-own-interpreter-python` terbit & terverifikasi.
+- [x] Repo GitHub publik `build-your-own-interpreter-python` terbit & terverifikasi.
